@@ -25,6 +25,5 @@ Data Science student at **FIAP** with a technical background in Systems Developm
 
 ---
 
-📫 **Let's Connect!
-* **LinkedIn: https://www.linkedin.com/in/gabriel-pereira-1b43872a4/
-* **Email: alves.gabriel.data@gmail.com
+<img width="1586" height="693" alt="image" src="https://github.com/user-attachments/assets/b69b4586-d866-417b-bfee-0cf42b69a80f" />
+
